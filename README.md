@@ -47,3 +47,6 @@ The analysis reveals how technological evolution has redefined cinema, with incr
 - 🐍 **Python** (EDA - Data cleaning and preprocessing)
 - 🔄 **Power Query** (ETL and data transformation)
 - 📊 **Looker Studio** (Interactive dashboards and visualizations)
+
+## [Explore live report](https://lookerstudio.google.com/s/kgod8oCt8M8)
+
